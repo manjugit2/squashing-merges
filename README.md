@@ -1,0 +1,2 @@
+# squashing-merges
+squashing-merges
